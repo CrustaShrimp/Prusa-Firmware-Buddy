@@ -14,28 +14,28 @@ msgstr "\nBootloader Version\n %d.%d.%d\n\nBuddy Board\n%d.%d.%d\n%s"
 
 #: src/guiapi/src/MItem_tools.cpp:121
 msgid "A crash dump report (file dump.bin) has been saved to the USB drive."
-msgstr "Ein Crash-Dump-Bericht (Datei dump.bin) wurde auf dem USB-Laufwerk gespeichert."
+msgstr "Er is een Crash-Dump-Rapport (bestandsnaam dump.bin) op de USB-stick opgeslagen."
 
 #. MSGBOX_RES_CANCEL    2
 #: src/guiapi/src/window_msgbox.cpp:50
 msgid "ABORT"
-msgstr "ABBRECHEN"
+msgstr "ANNULEREN"
 
 #: src/gui/wizard/screen_wizard.c:274
 msgid "All tests finished successfully!"
-msgstr "Alle Tests erfolgreich abgeschlossen!"
+msgstr "Alle testen zijn succesvol afgerond!"
 
 #: src/gui/screen_menu_fw_update.cpp:18
 msgid "Always"
-msgstr "Immer"
+msgstr "Altijd"
 
 #: src/gui/screen_PID.cpp:195
 msgid "Apply"
-msgstr "Anwenden"
+msgstr "Toepassen"
 
 #: src/gui/screen_printing.cpp:382 src/gui/screen_printing.cpp:400
 msgid "Are you sure to stop this printing?"
-msgstr "Druck wirklich beenden?"
+msgstr "Weet u zeker dat u de print wilt stoppen?"
 
 #: src/guiapi/include/MItem_tools.hpp:212
 #: src/guiapi/include/MItem_tools.hpp:211
@@ -58,171 +58,171 @@ msgstr "AutTn"
 
 #: src/gui/screen_messages.cpp:30
 msgid "BACK"
-msgstr "ZURÜCK"
+msgstr "TERUG"
 
 #: src/gui/screen_print_preview.cpp:278
 msgid "Back"
-msgstr "Zurück"
+msgstr "Terug"
 
 #: src/gui/screen_PID.cpp:496
 msgid "BED"
-msgstr "BETT"
+msgstr "BED"
 
 #: src/gui/screen_printing.cpp:335
 msgid "Bed leveling failed. Try again?"
-msgstr "Bettnivellierung fehlgeschlagen. Nochmals versuchen?"
+msgstr "Bed levelen gefaald. Opnieuw proberen?"
 
 #. r=1 c=15
 #: src/gui/wizard/selftest_cool.cpp:76
 #, c-format
 msgid "Bed. target: %.0f_C"
-msgstr "Bett Soll: %.0f_C"
+msgstr "Bed doel: %.0f_C"
 
 #. r=1 c=15
 #: src/gui/wizard/selftest_cool.cpp:55
 #, c-format
 msgid "Bed: %.1f_C"
-msgstr "Bett: %.1f_C"
+msgstr "Bed: %.1f_C"
 
 #: src/gui/wizard/xyzcalib.cpp:55
 msgid "Calibrating Z"
-msgstr "Kalibriere Z"
+msgstr "Kalibratie Z"
 
 #: src/gui/screen_menu_calibration.cpp:16 src/gui/screen_home.cpp:42
 msgid "Calibration"
-msgstr "Kalibrierung"
+msgstr "Kalibratie"
 
 #: src/gui/screen_menu_calibration.cpp:17
 msgid "CALIBRATION"
-msgstr "KALIBRIERUNG"
+msgstr "KALIBRATIE"
 
 #: src/gui/wizard/screen_wizard.c:496
 msgid "Calibration successful!\nHappy printing!"
-msgstr "Kalibrierung erfolgreich!\nFrohes Drucken!"
+msgstr "Kalibratie succesvol!\nFijn printen!"
 
 #: src/gui/wizard/screen_wizard.cpp:304
 msgid "Calibration XY"
-msgstr "Kalibriere XY"
+msgstr "Kalibratie XY"
 
 #. 0
 #. 1
 #: src/guiapi/src/window_msgbox.cpp:49
 msgid "CANCEL"
-msgstr "ABBRECHEN"
+msgstr "ANNULEREN"
 
 #: src/gui/dialogs/DialogFactory.cpp:11 src/gui/screen_menu_filament.cpp:79
 #: src/gui/screen_menu_filament.cpp:80
 msgid "CHANGE FILAMENT"
-msgstr "FILAMENTWECHSEL"
+msgstr "FILAMENT WISSELEN"
 
 #: src/gui/screen_menu_filament.cpp:78 src/guiapi/include/MItem_tools.hpp:188
 #: src/gui/screen_menu_filament.cpp:79
 msgid "Change Filament"
-msgstr "Filament wechseln"
+msgstr "Filament wisselen"
 
 #: src/gui/wizard/selftest_fans_axis.cpp:51
 msgid "Checking axes"
-msgstr "Prüfe Achsen"
+msgstr "Assen controleren"
 
 #: src/gui/wizard/selftest_temp.cpp:37
 msgid "Checking hotend and\nheatbed heaters"
-msgstr "Prüfe Hotend und\nHeizbettheizungen"
+msgstr "Controle hotend en\nheatbed verwarming"
 
 #: src/gui/wizard/screen_wizard.c:462
 msgid "Clean steel sheet."
-msgstr "Stahlblech reinigen."
+msgstr "Stalen plaat reinigen."
 
 #: src/gui/wizard/screen_wizard.c:362
 msgid "Congratulations! XYZ calibration is ok. XY axes are perpendicular."
-msgstr "Glückwunsch! Die XYZ-Kalibrierung ist in Ordnung. XY-Achsen sind senkrecht."
+msgstr "Gefeliciteerd! De XYZ-kalibratie is in orde. XY-assen zijn loodrecht."
 
 #: src/guiapi/src/MItem_tools.cpp:273
 msgid "Continual beeps test\n press button to stop"
-msgstr "Kontinuierlicher Pieptest\nTaste drücken, um anzuhalten"
+msgstr "Continue piep test\nDruk de knop om te stoppen"
 
 #: src/gui/dialogs/DialogLoadUnload.cpp:29
 msgid "CONTINUE"
-msgstr "WEITER"
+msgstr "VERDER"
 
 #: src/gui/screen_menu_temperature.cpp:11 src/gui/filament.cpp:13
 msgid "Cooldown"
-msgstr "Abkühlen"
+msgstr "Afkoelen"
 
 #: src/gui/screen_sysinf.cpp:67
 msgid "CPU load"
-msgstr "CPU Auslastung"
+msgstr "CPU belasting"
 
 #: src/gui/dialogs/DialogLoadUnload.cpp:30
 msgid "DISABLE SENSOR"
-msgstr "SENSOR AUSSCHALTEN"
+msgstr "SENSOR UITSCHAKELEN"
 
 #: src/guiapi/include/MItem_tools.hpp:58
 msgid "Disable Steppers"
-msgstr "Motoren ausschalten"
+msgstr "Motoren uitschakelen"
 
 #: src/gui/screen_printing_serial.cpp:36
 msgid "Disconnect"
-msgstr "Trennen"
+msgstr "Losmaken"
 
 #: src/gui/wizard/screen_wizard.c:448
 msgid "Do you want to     \nrepeat the last    \nstep and readjust  \nthe distance       \nbetween the nozzle \nand heatbed?"
-msgstr "Möchten Sie den letzten Schritt wiederholen und den Abstand zwischen Düse und Heizbett neu einstellen?"
+msgstr "Wilt u de laatste stap herhalen en de afstand tussen de nozzle en het heatbed opnieuw instellen?"
 
 #: src/gui/wizard/screen_wizard.c:405
 #, c-format
 msgid "Do you want to use\nthe current value?\nCurrent: %0.3f.   \nDefault: %0.3f.   \nClick NO to use the default value (recommended)"
-msgstr "Nutzung des aktuellen Wertes?\nAktuell: %0.3f.\nVorgabe: %0.3f.\nKlicken Sie auf NEIN, um den Standardwert zu verwenden (empfohlen)"
+msgstr "Wilt u de huidige waarde gebruiken?\nHuidig: %0.3f.\nStandaard: %0.3f.\nClick NEE om de standaardwaarde te gebruiken (aanbevolen)"
 
 #: src/gui/wizard/screen_wizard.c:473
 #, c-format
 msgid "Do you want to use last set value? Last:  %0.3f.   Default: %0.3f.   Click NO to use default value."
-msgstr "Möchten Sie den zuletzt eingestellten Wert verwenden?\nLetzter: %0.3f.\nVoreinstellung: %0.3f.\nKlicken Sie auf NEIN, um den Standardwert zu verwenden."
+msgstr "Wilt u de laatst ingestelde waarde gebruiken?\nLaatst: %0.3f.\nStandaard: %0.3f.\nClick NEE om de standaardwaarde te gebruiken."
 
 #: src/gui/wizard/wizard_ui.cpp:34
 msgid "DONE"
-msgstr "FERTIG"
+msgstr "KLAAR"
 
 #: src/gui/dialogs/DialogLoadUnload.cpp:55
 msgid "Ejecting"
-msgstr "Auswerfen"
+msgstr "Uitwerpen"
 
 #. MSGBOX_ICO_CUSTOM     0x0000
 #: src/guiapi/src/window_msgbox.cpp:13
 msgid "Error"
-msgstr "Fehler"
+msgstr "Fout"
 
 #: src/guiapi/src/MItem_tools.cpp:123
 msgid "Error saving crash dump report to the USB drive. Please reinsert the USB drive and try again."
-msgstr "Fehler beim Speichern des Crash-Dump-Berichts auf das USB-Laufwerk. Bitte stecken Sie das USB-Laufwerk wieder ein und versuchen Sie es erneut."
+msgstr "Fout bij het opslaan van het Crash-Dump-Rapport op de USB-stick. Steek alstublief de USB-stick opnieuw in en probeer opnieuw."
 
 #: src/gui/wizard/screen_wizard.c:266
 msgid "Everything is alright. I will run XYZ calibration now. It will take approximately 12 minutes."
-msgstr "Es ist alles in Ordnung. Ich werde jetzt die XYZ-Kalibrierung durchführen. Es wird etwa 12 Minuten dauern."
+msgstr "Alles is in orde. Ik zal nu de XYZ-kalibratie starten. Deze zal ongeveer 12 minuten duren."
 
 #: src/gui/test/screen_mesh_bed_lv.cpp:111 src/gui/screen_sysinf.cpp:78
 #: src/gui/screen_PID.cpp:313
 msgid "EXIT"
-msgstr "BEENDEN"
+msgstr "SLUITEN"
 
 #: src/guiapi/src/MItem_tools.cpp:108
 msgid "Factory defaults loaded. The system will now restart."
-msgstr "Werkeinstellung geladen. Das System wird neu gestartet."
+msgstr "Fabrieksinstellingen geladen. Het systeem zal nu opnieuw opstarten."
 
 #: src/guiapi/include/MItem_tools.hpp:68
 msgid "Factory Reset"
-msgstr "Werkseinstellung"
+msgstr "Fabrieksinstellingen herstellen"
 
 #: src/guiapi/include/MItem_menus.hpp:48
 msgid "Fail Stats"
-msgstr "Fehlerstat."
+msgstr "Fout statistieken."
 
 #: src/gui/wizard/selftest_fans_axis.cpp:26
 msgid "Fan test"
-msgstr "Lüftertest"
+msgstr "Ventilator test"
 
 #: src/gui/screen_menu_settings.cpp:24
 msgid "Fil. sens."
-msgstr "Fil.-Sens."
+msgstr "Fil. sens."
 
 #: src/gui/screen_menu_filament.cpp:123 src/gui/screen_menu_filament.cpp:120
 msgid "FILAMENT"
@@ -234,34 +234,34 @@ msgstr "Filament"
 
 #: src/gui/screen_print_preview.cpp:320
 msgid "Filament not detected. Load filament now? Select NO to cancel, or IGNORE to disable the filament sensor and continue."
-msgstr "Filament nicht erkannt. Filament jetzt laden? Wählen Sie NEIN, um abzubrechen, oder IGNORIEREN, um den Filament-Sensor zu deaktivieren und fortzufahren."
+msgstr "Geen filament gedetecteerd. Filament nu laden? Kies NEE om te annuleren of NEGEREN om de filament sensor te deactiveren en door te gaan."
 
 #: src/gui/dialogs/DialogLoadUnload.cpp:44
 msgid "Finishing         \nbuffered gcodes.  \n"
-msgstr "Beende gepufferten gcode.\n"
+msgstr "Afronden gebufferde gcode.\n"
 
 #. =============SET TEXT================
 #: src/gui/screen_menu_version_info.cpp:72
 #, c-format
 msgid "Firmware Version\n"
-msgstr "Firmware Version\n"
+msgstr "Firmware Versie\n"
 
 #: src/guiapi/include/MItem_tools.hpp:48
 msgid "First Layer Cal."
-msgstr "Erste Schicht Kal."
+msgstr "Eerste laag kal."
 
 #: src/gui/wizard/screen_wizard.c:551
 msgid "FIRST LAYER CALIB."
-msgstr "ERSTE SCHICHT KALIB."
+msgstr "EERSTE LAAG KALIB."
 
 #: src/guiapi/include/MItem_print.hpp:40
 msgid "Flow Factor"
-msgstr "Flussfaktor"
+msgstr "Flow Factor"
 
 #. abbreviated Friday - max 3 characters
 #: src/lang/format_print_will_end.cpp:51
 msgid "Fri"
-msgstr "Fr."
+msgstr "Vr."
 
 #: src/gui/screen_menu_fw_update.cpp:46
 msgid "FW UPDATE"
@@ -273,19 +273,19 @@ msgstr "FW Update"
 
 #: src/guiapi/include/MItem_print.hpp:16
 msgid "Heatbed"
-msgstr "Heizbett"
+msgstr "Heatbed"
 
 #: src/gui/guimain.c:165
 msgid "Heating disabled due to 30 minutes of inactivity."
-msgstr "Heizung wegen 30 Minuten Inaktivität deaktiviert."
+msgstr "Opwarming gedeactiveerd door 30 minuten inactiviteit."
 
 #: src/gui/screen_printing.cpp:80
 msgid "Heating..."
-msgstr "Aufheizen..."
+msgstr "Verwarmen..."
 
 #: src/gui/guimain.c:189
 msgid "Hi, this is your\nOriginal Prusa MINI."
-msgstr "Hallo, hier ist Ihr\nOriginal Prusa MINI."
+msgstr "Hallo, dit is uw\nOriginal Prusa MINI."
 
 #: src/gui/screen_home.cpp:83 src/gui/screen_home.cpp:82
 msgid "HOME"
@@ -304,12 +304,12 @@ msgstr "HOME TO MAX"
 
 #: src/gui/wizard/selftest_fans_axis.cpp:35
 msgid "Hotend fan"
-msgstr "Hotend Lüfter"
+msgstr "Hotend ventilator"
 
 #. MSGBOX_RES_RETRY     4
 #: src/gui/screen_print_preview.cpp:318 src/guiapi/src/window_msgbox.cpp:52
 msgid "IGNORE"
-msgstr "IGNORIEREN"
+msgstr "NEGEREN"
 
 #. "Observe the pattern\n"
 #. "and turn the knob \n"
@@ -321,7 +321,7 @@ msgstr "IGNORIEREN"
 #. "the print surface."
 #: src/gui/wizard/screen_wizard.c:430
 msgid "In the next step, \nuse the knob to   \nadjust the nozzle \nheight.           \nCheck the pictures\nin the handbook   \nfor reference."
-msgstr "Im nächsten Schritt, den Knopf verwenden, um die Höhe der Düse einzustellen. Prüfen Sie die Bilder im Handbuch als Referenz."
+msgstr "Gebruik in de volgende stap de knop om de nozzle hoogte te veranderen. Bekijk het handboek ter referentie."
 
 #: src/gui/screen_menu_info.cpp:17
 msgid "INFO"
@@ -334,32 +334,32 @@ msgstr "Info"
 #. MSGBOX_ICO_WARNING    0x0030
 #: src/guiapi/src/window_msgbox.cpp:16
 msgid "Information"
-msgstr "Informationen"
+msgstr "Informatie"
 
 #: src/gui/dialogs/DialogLoadUnload.cpp:53
 msgid "Inserting"
-msgstr "Einführen"
+msgstr "Invoeren"
 
 #: src/gui/screen_menu_lan_settings.cpp:305
 #: src/gui/screen_menu_lan_settings.cpp:306
 msgid "IP addresses are not valid or the file \"lan_settings.ini\" is not in the root directory of the USB drive."
-msgstr "IP-Adressen sind nicht gültig oder die Datei \"lan_settings.ini\" befindet sich nicht im Stammverzeichnis des USB-Laufwerks."
+msgstr "IP adressen zijn niet geldig of het bestand \"lan_settings.ini\" bevindt zich niet in de hoofdmap van de USB-stick."
 
 #: src/gui/screen_menu_lan_settings.cpp:301
 msgid "IP addresses or parameters are not valid or the file \"lan_settings.ini\" is not in the root directory of the USB drive."
-msgstr "IP-Adressen oder Parameter sind nicht gültig oder die Datei \"lan_settings.ini\" befindet sich nicht im Stammverzeichnis des USB-Laufwerks."
+msgstr "IP adressen of parameters zijn niet geldig of het bestand \"lan_settings.ini\" bevindt zich niet in de hoofdmap van de USB-stick."
 
 #: src/gui/dialogs/DialogLoadUnload.cpp:58
 msgid "Is color correct?"
-msgstr "Farbe korrekt?"
+msgstr "Kleur correct?"
 
 #: src/gui/dialogs/DialogLoadUnload.cpp:54
 msgid "Is filament in    \nextruder gear?    "
-msgstr "Filament im       \nExtruder Antrieb? "
+msgstr "Zit er filament in\nExtruder? "
 
 #: src/gui/wizard/screen_wizard.c:313
 msgid "Is steel sheet on heatbed?"
-msgstr "Ist Stahlblech auf dem Heizbett?"
+msgstr "Ligt de stalen plaat op het heatbed?"
 
 #: src/gui/screen_menu_lan_settings.cpp:267
 #: src/gui/screen_menu_lan_settings.cpp:268
